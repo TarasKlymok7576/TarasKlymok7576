@@ -5,8 +5,8 @@
   - Engaged in research and development projects spanning software development, system administration, and computer networking.
   - Key disciplines included programming, software engineering, database organization, cybersecurity, and artificial intelligence.
   - Gained hands-on experience with cutting-edge technologies and developed problem-solving skills for designing and managing computer systems.
-- **Projects:** [https://github.com/TarasKlymok7576/translator.git]
-
+- **Projects:**
+  [https://github.com/TarasKlymok7576/translator.git]
 ---
 
 ## 🌐 Networking Fundamentals 
