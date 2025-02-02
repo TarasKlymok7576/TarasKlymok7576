@@ -59,6 +59,6 @@ I am a **DevOps Engineer** with expertise in automation, cloud computing, and in
 🔹 **Description**: Process automation, API development, web development (Flask, Django), data analysis.
 🔹 **Projects**: [Link]
 
-🎓 University Projects
+## 🎓 University Projects
 🔹 **Description**:  During my studies, I worked on various projects related to software development, system administration, and networking. These projects allowed me to build a solid foundation in programming, automation, and infrastructure management.
 🔹 **Projects**: [Link]
