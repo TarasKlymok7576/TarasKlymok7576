@@ -1,64 +1,123 @@
 # 💻 My Tech Stack
 
-## 👤 About Me
-I am a **DevOps Engineer** with expertise in automation, cloud computing, and infrastructure management. Passionate about optimizing workflows, enhancing system reliability, and implementing best practices in CI/CD and container orchestration. I thrive in fast-paced environments and continuously seek to expand my technical skills.
+## 🎓 University Projects
+- **Description:**
+  - Engaged in research and development projects spanning software development, system administration, and computer networking.
+  - Key disciplines included programming, software engineering, database organization, cybersecurity, and artificial intelligence.
+  - Gained hands-on experience with cutting-edge technologies and developed problem-solving skills for designing and managing computer systems.
+- **Projects:** [Link]
 
-## 🌐 Networking Fundamentals (TCP/IP)
-🔹 **Description**: In-depth understanding of OSI and TCP/IP models, key protocols (HTTP, HTTPS, DNS, DHCP, FTP). Network configuration, diagnostics, and troubleshooting.
-🔹 **Projects**: [Link]
+---
+
+## 🌐 Networking Fundamentals 
+- **Description:**
+  - Comprehensive understanding of OSI and TCP/IP models.
+  - Proficient in key protocols such as HTTP, HTTPS, DNS, DHCP, and FTP.
+  - Expertise in network configuration, diagnostics, and troubleshooting.
+- **Projects:** [Link]
+
+---
 
 ## 🖥️ Windows Administration
-🔹 **Description**: User management, security policies configuration, automation via PowerShell, server administration.
-🔹 **Projects**: [Link]
+- **Description:**
+  - User management and security policies configuration.
+  - PowerShell automation and server administration.
+- **Projects:** [Link]
+
+---
 
 ## 🐧 Linux Fundamentals
-🔹 **Description**: Command-line operations, file system management, access control, Bash scripting, server administration.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Proficient in command-line operations, file system management, and access control.
+  - Skilled in Bash scripting and server administration.
+- **Projects:** [Link]
+
+---
 
 ## 🤖 Ansible
-🔹 **Description**: Configuration automation, writing playbooks, infrastructure orchestration.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Configuration automation and infrastructure orchestration.
+  - Expertise in writing efficient playbooks.
+- **Projects:** [Link]
+
+---
 
 ## 🔄 Git
-🔹 **Description**: Version control, repository management, branching strategies, merge conflict resolution.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Version control and repository management.
+  - Experienced in branching strategies and resolving merge conflicts.
+- **Projects:** [Link]
+
+---
 
 ## 🏗️ GitHub
-🔹 **Description**: Code hosting, GitHub Actions for CI/CD, Pull Requests, Issue Tracking.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Code hosting and collaboration through Pull Requests and Issue Tracking.
+  - Setting up GitHub Actions for CI/CD pipelines.
+- **Projects:** [Link]
+
+---
 
 ## 🚀 CI/CD: GitHub Actions, GitLab CI/CD
-🔹 **Description**: Setting up CI/CD pipelines, automating testing and deployment.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Automating testing and deployment using CI/CD pipelines.
+  - Streamlining development workflows.
+- **Projects:** [Link]
+
+---
 
 ## 📦 Docker + DockerHub
-🔹 **Description**: Application containerization, writing Dockerfiles, using Docker Compose, deploying to DockerHub.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Application containerization and deployment.
+  - Writing Dockerfiles and utilizing Docker Compose.
+  - Deploying images to DockerHub.
+- **Projects:** [Link]
+
+---
 
 ## ☸️ Kubernetes + Helm + ArgoCD
-🔹 **Description**: Container orchestration, Helm charts, automated deployments via ArgoCD.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Container orchestration and automated deployments.
+  - Developing and managing Helm charts.
+  - Leveraging ArgoCD for GitOps workflows.
+- **Projects:** [Link]
+
+---
 
 ## ☁️ AWS: Amazon Web Services
-🔹 **Description**: Working with EC2, S3, RDS, Lambda, load balancing, and cloud infrastructure setup.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Managing cloud infrastructure with EC2, S3, RDS, and Lambda.
+  - Implementing load balancing and scalable solutions.
+- **Projects:** [Link]
+
+---
 
 ## ☁️ GCP: Google Cloud Platform
-🔹 **Description**: Utilizing GKE, Cloud Functions, and BigQuery for scalable solutions.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Utilizing GKE, Cloud Functions, and BigQuery for scalable solutions.
+- **Projects:** [Link]
+
+---
 
 ## ☁️ Azure: Microsoft Azure
-🔹 **Description**: Infrastructure management via Azure Portal and CLI, DevOps integration.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Infrastructure management through Azure Portal and CLI.
+  - Integration with DevOps pipelines.
+- **Projects:** [Link]
+
+---
 
 ## 🔧 Terraform + Terragrunt
-🔹 **Description**: Infrastructure as Code (IaC), resource automation using Terraform and Terragrunt.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Automating resource management with Infrastructure as Code (IaC).
+  - Expertise in leveraging Terraform and Terragrunt.
+- **Projects:** [Link]
+
+---
 
 ## 🐍 Python
-🔹 **Description**: Process automation, API development, web development (Flask, Django), data analysis.
-🔹 **Projects**: [Link]
-
-## 🎓 University Projects
-🔹 **Description**:  During my studies, I worked on various projects related to software development, system administration, and networking. These projects allowed me to build a solid foundation in programming, automation, and infrastructure management.
-🔹 **Projects**: [Link]
+- **Description:**
+  - Proficient in process automation and API development.
+  - Web development experience using Flask and Django.
+  - Skilled in data analysis and scripting.
+- **Projects:** [Link]
